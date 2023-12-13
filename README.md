@@ -1,4 +1,5 @@
-[<kbd> <br> Apply <br> </kbd>][https://forms.gle/AHNpPPXQQKjM1yts5]
+Apply Here : https://forms.gle/AHNpPPXQQKjM1yts5
+
 # Welcome to CodeON Club Auditions!
 
 🚀 Are you ready to unleash your passion for coding and join a community of like-minded individuals? Look no further! The [Your University/College] Coding Club is thrilled to invite you to audition for a spot in our dynamic and innovative community.
