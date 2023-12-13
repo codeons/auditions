@@ -2,7 +2,7 @@ Apply Here : https://forms.gle/AHNpPPXQQKjM1yts5
 
 # Welcome to CodeON Club Auditions!
 
-🚀 Are you ready to unleash your passion for coding and join a community of like-minded individuals? Look no further! The [Your University/College] Coding Club is thrilled to invite you to audition for a spot in our dynamic and innovative community.
+🚀 Are you ready to unleash your passion for coding and join a community of like-minded individuals? Look no further! The CodeOn Club is thrilled to invite you to audition for a spot in our dynamic and innovative community.
 
 Are you passionate about technology, photography, or management? If so, you're in the right place! CodeON Club is on the lookout for talented individuals to join our dynamic team, and we want you to be a part of it.
 
