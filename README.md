@@ -1,4 +1,4 @@
-
+[<kbd> <br> Apply <br> </kbd>][https://forms.gle/AHNpPPXQQKjM1yts5]
 # Welcome to CodeON Club Auditions!
 
 🚀 Are you ready to unleash your passion for coding and join a community of like-minded individuals? Look no further! The [Your University/College] Coding Club is thrilled to invite you to audition for a spot in our dynamic and innovative community.
@@ -78,10 +78,6 @@ At CodeON Club auditions, we believe in creating an engaging and enjoyable exper
     -   Emphasize your ability to coordinate and communicate effectively.
     -   Prepare examples of problem-solving in a team environment.
     -   Express your passion for community building and event management.
-## How to Apply
-
-1. Fill out the audition form [link to form].
-2. Prepare any additional materials you'd like to showcase (GitHub repositories, personal projects, photography portfolio, manageability etc.).
 
 ## FAQs
 
